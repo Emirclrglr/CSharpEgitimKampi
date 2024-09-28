@@ -11,7 +11,7 @@ namespace _01_MainSubjects
         static void Main(string[] args)
         {
 
-            #region Yazdırma Komutları 
+       
             //Console.WriteLine("Merhaba Dünya");
             //Console.Write("Selam");
 
@@ -25,9 +25,8 @@ namespace _01_MainSubjects
             //Console.WriteLine("6 - İçecekler");
             //Console.WriteLine();
             //Console.WriteLine("***** Yemek Kategorileri *****");
-            #endregion
+            
 
-            #region String Değişkenler 
 
             // String
             //Degisken_Turu degisken_Adi;
@@ -73,9 +72,7 @@ namespace _01_MainSubjects
             //Console.WriteLine("Adres: " + district + " / " + city);
             //Console.WriteLine("--------------------------------------------------");
 
-            #endregion
 
-            #region Integer Değişkenler
 
             //int
 
@@ -131,7 +128,6 @@ namespace _01_MainSubjects
             Console.WriteLine();
             Console.WriteLine("----Toplam Ödenecek Tutar: " + totalPrice + " TL");
 
-            #endregion
 
             Console.Read();
         }

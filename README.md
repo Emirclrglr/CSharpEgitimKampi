@@ -40,3 +40,6 @@ Bu projede aşağıdaki başlıkları işledik ve örnek uygulama yaparak öğre
 
 ## :star2: Proje 9: Database Project
 Bu projede SQL'e giriş yaptık ve içerisinde Category, Product, Order tabloları bulunan örnek bir Database oluşturduk. Ardından C# kısmında ise Sql Bağlantısı oluşturup Foreach yapısını kullanarak kategorileri konsola yazdırdık.
+
+## :star2: Proje 10: DatabaseCrud
+Bu projede C# kısmında temel CRUD (Create, Read, Update, Delete) işlemlerini öğrendik ve uygulayarak pekiştirdik.

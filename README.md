@@ -43,3 +43,9 @@ Bu projede SQL'e giriş yaptık ve içerisinde Category, Product, Order tablolar
 
 ## :star2: Proje 10: DatabaseCrud
 Bu projede C# kısmında temel CRUD (Create, Read, Update, Delete) işlemlerini öğrendik ve uygulayarak pekiştirdik.
+
+## :star2: Entityframework İstatistik Tablosu
+Entityframework metodlarını kullanarak geliştirmiş olduğumuz istatistik uygulaması:
+![image](https://github.com/user-attachments/assets/541ce401-abb3-48cc-8a73-9a7c9abb285b)
+
+
